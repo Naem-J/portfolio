@@ -76,9 +76,11 @@ GEM
 PLATFORMS
   ruby
   x86-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   moonwalk!
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.2.21

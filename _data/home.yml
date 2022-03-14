@@ -1,70 +1,86 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
-    url: blog
+#  - title: blog
+#    url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jeffnaemura
+
+  - title: GitHub
+    url: https://github.com/Naem-J
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: User Guide
+    url: user-guide
+    desc: Detailed product documentation
+    highlight: Printed
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: User Guide
+    url: web-user-guide
+    desc: Detailed product documentation
+    highlight: Web
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Help File
+    url: help-file
+    desc: Detailed software documentation
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+  - title: Setup Guide
+    url: setup-guide
+    desc: Brief setup and installation documentation
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Installation Guide
+    url: installation-guide
+    desc: Brief hardware installation documentation
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Specifications
+    url: specs
+    desc: Product and performance information
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Style Guide
+    url: style-guide
+    desc: Writing conventions and visual aid guidelines
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Prep and Review Checklists
+    url: checklists
+    desc: Checklists for quality control
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+  - title: Illustrations
+    url: illustrations
+    desc: Vector-based drawings and raster graphics
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Service Label
+    url: service-label
+    desc: Localized adhesive stickers to write on
+
+  - title: URS
+    url: urs
+    desc: Internal requirements for developers
+
+  - title: Test Protocol
+    url: test-protocol
+    desc: Internal procedures for product testing
+
+  - title: Input Validation
+    url: input-validation
+    desc: Client-side custom input validation for PDF forms
+
+  - title: SOP
+    url: sop
+    desc: Internal standard operating procedure
+
+  - title: Script
+    url: script
+    desc: Video script for internal customers
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+#  - title: GitHub
+#    url: https://github.com/Naem-J
 
-  - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+#  - title: feed
+#    url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
@@ -97,5 +113,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
