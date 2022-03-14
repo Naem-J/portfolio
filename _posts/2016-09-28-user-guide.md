@@ -28,4 +28,4 @@ My responsibilities were to collaborate with Product Development engineers and t
 
 ## Sample
 
-[User Guide Sample](../images/68-2290-01_G.pdf)
+[User Guide Sample](/images/68-2290-01_G.pdf)

@@ -35,4 +35,4 @@ Microsoft Word
 
 ## Samples
 
-[Style Guide Sample](../images/style_guide_redacted.pdf)
+[Style Guide Sample](/images/style_guide_redacted.pdf)

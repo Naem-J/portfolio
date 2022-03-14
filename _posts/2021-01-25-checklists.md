@@ -28,8 +28,8 @@ Microsoft Word
 
 ## Samples
 
-![Preparation Checklist](../images/prep_checklist.png)
+![Preparation Checklist](/images/prep_checklist.png)
 *Preparation Checklist for Authors to Complete before Peer Review*
 
-![Review Checklist](../images/review_checklist.png)
+![Review Checklist](/images/review_checklist.png)
 *Review Checklist for Reviewers to Complete during Peer Review*

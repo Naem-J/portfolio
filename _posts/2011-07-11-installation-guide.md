@@ -26,4 +26,4 @@ My responsibilities were to collaborate with Product Development engineers and t
 
 ## Sample
 
-[Installation Guide Sample](../images/68-2160-01_A.pdf)
+[Installation Guide Sample](/images/68-2160-01_A.pdf)

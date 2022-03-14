@@ -28,4 +28,4 @@ Microsoft Word
 
 ## Sample
 
-[Test Protocol Sample](../images/eSTP_Test_Protocol.pdf)
+[Test Protocol Sample](/images/eSTP_Test_Protocol.pdf)
