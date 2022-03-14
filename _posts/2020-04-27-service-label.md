@@ -30,5 +30,5 @@ Translations and localization were done by global affiliates. Printed material a
 
 ## Sample
 
-![Service Label Sample](/images/label_workspace.png)
+![Service Label Sample](images/label_workspace.png)
 *XML data set of localized content that matches Illustrator variables*

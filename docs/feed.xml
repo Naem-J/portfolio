@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://naem-j.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://naem-j.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2022-03-13T23:18:40-07:00</updated><id>https://naem-j.github.io/portfolio/feed.xml</id><title type="html">Technical Writing Portfolio</title><subtitle>Welcome to my technical writing portfolio. The samples included on this site are either full versions of freely available documents online or excerpts from documents as proof of their existence. Some excerpts may have redacted or omitted information to protect proprietary information.
-</subtitle><author><name>Jeff Naemura</name></author><entry><title type="html">Illustrations</title><link href="https://naem-j.github.io/portfolio/illustrations" rel="alternate" type="text/html" title="Illustrations" /><published>2022-03-12T00:00:00-08:00</published><updated>2022-03-12T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/illustrations</id><content type="html" xml:base="https://naem-j.github.io/portfolio/illustrations">&lt;p&gt;The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualiazation software (Creo View). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://naem-j.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://naem-j.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2022-03-14T00:01:12-07:00</updated><id>https://naem-j.github.io/portfolio/feed.xml</id><title type="html">Technical Writing Portfolio</title><subtitle>Welcome to my technical writing portfolio. The samples included on this site are either full versions of freely available documents online or excerpts from documents as proof of their existence. Some excerpts may have redacted or omitted information to protect proprietary information.
+</subtitle><author><name>Jeff Naemura</name></author><entry><title type="html">Illustrations</title><link href="https://naem-j.github.io/portfolio/illustrations" rel="alternate" type="text/html" title="Illustrations" /><published>2022-03-12T00:00:00-08:00</published><updated>2022-03-12T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/illustrations</id><content type="html" xml:base="https://naem-j.github.io/portfolio/illustrations">&lt;p&gt;The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (Creo View). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/camera_installation.svg&quot; alt=&quot;Exploded View Diagram&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/camera_installation.svg&quot; alt=&quot;Exploded View Diagram&quot; /&gt;
 &lt;em&gt;Exploded View Diagram&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/datafusion.svg&quot; alt=&quot;Signal Flow&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/datafusion.svg&quot; alt=&quot;Signal Flow&quot; /&gt;
 &lt;em&gt;Signal Flow&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/patient_page_header.png&quot; alt=&quot;Modified Screenshot&quot; /&gt;
-&lt;em&gt;Screenshot with Data Changed to Generic Information&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="illustrations" /><category term="drawings" /><category term="vector" /><category term="adobe" /><category term="illustrator" /><summary type="html">The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualiazation software (Creo View). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.</summary></entry><entry><title type="html">Style Guide</title><link href="https://naem-j.github.io/portfolio/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2021-07-10T00:00:00-07:00</published><updated>2021-07-10T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/style-guide</id><content type="html" xml:base="https://naem-j.github.io/portfolio/style-guide">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;images/patient_page_header.png&quot; alt=&quot;Modified Screenshot&quot; /&gt;
+&lt;em&gt;Screenshot with Data Changed to Generic Information&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="illustrations" /><category term="drawings" /><category term="vector" /><category term="adobe" /><category term="illustrator" /><summary type="html">The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (Creo View). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.</summary></entry><entry><title type="html">Style Guide</title><link href="https://naem-j.github.io/portfolio/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2021-07-10T00:00:00-07:00</published><updated>2021-07-10T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/style-guide</id><content type="html" xml:base="https://naem-j.github.io/portfolio/style-guide">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpts are examples of a comprehensive style guide I created for the Technical Publications team. During a Lean Six Sigma Green Belt project I planned and implemented, this was identified as a gap in mistake proofing our development and review process. The project required standardizing both basic and deep writing topics as well as defining how visual aids should appear. The style guide worked in conjunction with a preparation and review checklist to ensure authors and reviewers were held to the same expectations.&lt;/p&gt;
 
-&lt;p&gt;The style guide is an internal document, so the full version is not available publically. However, the excerpts demonstrate the level of detail required to educate and ensure the responsibility of other technical writers to each other and their writing.&lt;/p&gt;
+&lt;p&gt;The style guide is an internal document, so the full version is not available publicly. However, the excerpts demonstrate the level of detail required to educate and ensure the responsibility of other technical writers to each other and their writing.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
@@ -41,11 +41,11 @@
 
 &lt;h2 id=&quot;samples&quot;&gt;Samples&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/style_guide_redacted.pdf&quot;&gt;Style Guide Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="style guide" /><category term="writing" /><category term="visual aids" /><category term="illustrations" /><category term="drawings" /><category term="images" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Checklists</title><link href="https://naem-j.github.io/portfolio/checklists" rel="alternate" type="text/html" title="Checklists" /><published>2021-01-25T00:00:00-08:00</published><updated>2021-01-25T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/checklists</id><content type="html" xml:base="https://naem-j.github.io/portfolio/checklists">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;images/style_guide_redacted.pdf&quot;&gt;Style Guide Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="style guide" /><category term="writing" /><category term="visual aids" /><category term="illustrations" /><category term="drawings" /><category term="images" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Checklists</title><link href="https://naem-j.github.io/portfolio/checklists" rel="alternate" type="text/html" title="Checklists" /><published>2021-01-25T00:00:00-08:00</published><updated>2021-01-25T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/checklists</id><content type="html" xml:base="https://naem-j.github.io/portfolio/checklists">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpts are examples of two checklists I made to improve the internal review cycle lead time. They worked in conjunction with each other as well as the department style guide. These two checklists were identified as a gap in mistake proofing our development and review process during a Lean Six Sigma Green Belt project I planned and implemented. Prior to the implementation of these checklists and style guide, review cycles were repeated many times due to disagreements between writers on non-standardized topics or disagreements on the responsibilities of the author and reviewer.&lt;/p&gt;
 
-&lt;p&gt;The checklists are an internal documents, so the full versions are not available publically. However, the excerpts demonstrate the connection between style guide topics and expectations between author and reviewer responsibilities.&lt;/p&gt;
+&lt;p&gt;The checklists are an internal documents, so the full versions are not available publicly. However, the excerpts demonstrate the connection between style guide topics and expectations between author and reviewer responsibilities.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
@@ -65,10 +65,10 @@
 
 &lt;h2 id=&quot;samples&quot;&gt;Samples&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/prep_checklist.png&quot; alt=&quot;Preparation Checklist&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/prep_checklist.png&quot; alt=&quot;Preparation Checklist&quot; /&gt;
 &lt;em&gt;Preparation Checklist for Authors to Complete before Peer Review&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/review_checklist.png&quot; alt=&quot;Review Checklist&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/review_checklist.png&quot; alt=&quot;Review Checklist&quot; /&gt;
 &lt;em&gt;Review Checklist for Reviewers to Complete during Peer Review&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="preparation" /><category term="review" /><category term="checklists" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Web User Guide</title><link href="https://naem-j.github.io/portfolio/web-user-guide" rel="alternate" type="text/html" title="Web User Guide" /><published>2020-07-20T00:00:00-07:00</published><updated>2020-07-20T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/web-user-guide</id><content type="html" xml:base="https://naem-j.github.io/portfolio/web-user-guide">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following document is a converted user guide I originally authored for print. The original document was previously converted from an existing Microsoft Word document in poor condition from an acquired company (the company did not have dedicated writers to create the document). The entire document was completely rewritten and the images were all replaced. The original document is provided in PDF form online for free, but has since been updated. The project was to provide safety, use, and maintenance information for a medical device.&lt;/p&gt;
@@ -126,7 +126,7 @@
 
 &lt;h2 id=&quot;sample&quot;&gt;Sample&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/label_workspace.png&quot; alt=&quot;Service Label Sample&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/label_workspace.png&quot; alt=&quot;Service Label Sample&quot; /&gt;
 &lt;em&gt;XML data set of localized content that matches Illustrator variables&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="label" /><category term="sticker" /><category term="service" /><category term="adobe" /><category term="illustrator" /><category term="xml" /><summary type="html">Summary</summary></entry><entry><title type="html">Script</title><link href="https://naem-j.github.io/portfolio/script" rel="alternate" type="text/html" title="Script" /><published>2019-09-25T00:00:00-07:00</published><updated>2019-09-25T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/script</id><content type="html" xml:base="https://naem-j.github.io/portfolio/script">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpt is an example of a script I created for a video demonstrating how to pack and transport medical equipment in custom containers and company vehicles. The script is an internal document, so the full version is not available. However, the excerpt demonstrates the writing and formatting used to create the script.&lt;/p&gt;
@@ -149,7 +149,7 @@
 
 &lt;h2 id=&quot;sample&quot;&gt;Sample&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/video_script.pdf&quot;&gt;Video Script Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="script" /><category term="video" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Standard Operating Procedure</title><link href="https://naem-j.github.io/portfolio/sop" rel="alternate" type="text/html" title="Standard Operating Procedure" /><published>2019-08-31T00:00:00-07:00</published><updated>2019-08-31T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/sop</id><content type="html" xml:base="https://naem-j.github.io/portfolio/sop">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;images/video_script.pdf&quot;&gt;Video Script Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="script" /><category term="video" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Standard Operating Procedure</title><link href="https://naem-j.github.io/portfolio/sop" rel="alternate" type="text/html" title="Standard Operating Procedure" /><published>2019-08-31T00:00:00-07:00</published><updated>2019-08-31T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/sop</id><content type="html" xml:base="https://naem-j.github.io/portfolio/sop">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpt is an example of a standard operating procedure (SOP) I authored as part of a Lean Six Sigma Green Belt project. It was identified as a gap in the Technical Publications department and helped mitigate errors in the development and review cycles when creating user documentation.&lt;/p&gt;
 
@@ -175,13 +175,13 @@
 
 &lt;h2 id=&quot;sample&quot;&gt;Sample&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/om_creation_process_redacted.pdf&quot;&gt;SOP for Creating User-Facing Documents&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="sop" /><category term="standard operating procedure" /><category term="pdf" /><category term="adobe" /><category term="indesign" /><category term="microsoft" /><category term="visio" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">User Requirement Specifications</title><link href="https://naem-j.github.io/portfolio/urs" rel="alternate" type="text/html" title="User Requirement Specifications" /><published>2018-07-29T00:00:00-07:00</published><updated>2018-07-29T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/urs</id><content type="html" xml:base="https://naem-j.github.io/portfolio/urs">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;images/om_creation_process_redacted.pdf&quot;&gt;SOP for Creating User-Facing Documents&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="sop" /><category term="standard operating procedure" /><category term="pdf" /><category term="adobe" /><category term="indesign" /><category term="microsoft" /><category term="visio" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">User Requirement Specifications</title><link href="https://naem-j.github.io/portfolio/urs" rel="alternate" type="text/html" title="User Requirement Specifications" /><published>2018-07-29T00:00:00-07:00</published><updated>2018-07-29T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/urs</id><content type="html" xml:base="https://naem-j.github.io/portfolio/urs">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpt is an example of a user requirement specification (URS) document I wrote on behalf of the Technical Support department. The project involved applying custom, client-side input validation to PDF versions of test procedure checklists written by internal technical support engineers in Microsoft Word.&lt;/p&gt;
 
 &lt;p&gt;Individual checklists were independently developed by different product-specific engineers with no standardization. The quantity of requested input and the level of detail required to satisfy each input was different for each checklist. Numerical limits were also variable.&lt;/p&gt;
 
-&lt;p&gt;The URS is an internal document, so the full version is not available publically. However, the excerpt demonstrates the depth of detail required of the writing. In particular, the excerpt focuses on input requirements for text fields. The document was also used in conjunction with a test protocol to verify the developers satisfied all requirements.&lt;/p&gt;
+&lt;p&gt;The URS is an internal document, so the full version is not available publicly. However, the excerpt demonstrates the depth of detail required of the writing. In particular, the excerpt focuses on input requirements for text fields. The document was also used in conjunction with a test protocol to verify the developers satisfied all requirements.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
@@ -200,15 +200,15 @@
 
 &lt;h2 id=&quot;sample&quot;&gt;Sample&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/eSTP_URS.pdf&quot;&gt;User Requirement Specification Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="urs" /><category term="user requirement specification" /><category term="requirements" /><category term="documentation" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Test Protocol</title><link href="https://naem-j.github.io/portfolio/test-protocol" rel="alternate" type="text/html" title="Test Protocol" /><published>2018-07-29T00:00:00-07:00</published><updated>2018-07-29T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/test-protocol</id><content type="html" xml:base="https://naem-j.github.io/portfolio/test-protocol">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;images/eSTP_URS.pdf&quot;&gt;User Requirement Specification Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="urs" /><category term="user requirement specification" /><category term="requirements" /><category term="documentation" /><category term="microsoft" /><category term="word" /><summary type="html">Summary</summary></entry><entry><title type="html">Test Protocol</title><link href="https://naem-j.github.io/portfolio/test-protocol" rel="alternate" type="text/html" title="Test Protocol" /><published>2018-07-29T00:00:00-07:00</published><updated>2018-07-29T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/test-protocol</id><content type="html" xml:base="https://naem-j.github.io/portfolio/test-protocol">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpt is an example of a test protocol I wrote for Quality Control to validate whether the Technical Publications department satisfied requirements to apply custom, client-side input validation to PDF checklists. The test protocol corresponds to specific requirements expressed in the user requirement specification (URS) document.&lt;/p&gt;
 
-&lt;p&gt;The test protocol is an internal document, so the full version is not available publically. However, the excerpt demonstrates the depth of detail required of the writing. The document was also used in conjunction with a URS.&lt;/p&gt;
+&lt;p&gt;The test protocol is an internal document, so the full version is not available publicly. However, the excerpt demonstrates the depth of detail required of the writing. The document was also used in conjunction with a URS.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
-&lt;p&gt;My responsibilities were to detail the procedure necessary to verify and validate whether requirements from the URS were met. This included accounting for different potential input scenarios, including minimum and maximum limits, arthimetic with floating point numbers, string formatting, and international number formatting.&lt;/p&gt;
+&lt;p&gt;My responsibilities were to detail the procedure necessary to verify and validate whether requirements from the URS were met. This included accounting for different potential input scenarios, including minimum and maximum limits, arithmetic with floating point numbers, string formatting, and international number formatting.&lt;/p&gt;
 
 &lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
 
@@ -224,7 +224,7 @@
 
 &lt;h2 id=&quot;sample&quot;&gt;Sample&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/eSTP_Test_Protocol.pdf&quot;&gt;Test Protocol Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="test protocol" /><category term="requirements" /><category term="documentation" /><category term="microsoft" /><category term="word" /><category term="quality" /><category term="validation" /><category term="verification" /><summary type="html">Summary</summary></entry><entry><title type="html">Input Validation</title><link href="https://naem-j.github.io/portfolio/input-validation" rel="alternate" type="text/html" title="Input Validation" /><published>2018-04-27T00:00:00-07:00</published><updated>2018-04-27T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/input-validation</id><content type="html" xml:base="https://naem-j.github.io/portfolio/input-validation">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;images/eSTP_Test_Protocol.pdf&quot;&gt;Test Protocol Sample&lt;/a&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="test protocol" /><category term="requirements" /><category term="documentation" /><category term="microsoft" /><category term="word" /><category term="quality" /><category term="validation" /><category term="verification" /><summary type="html">Summary</summary></entry><entry><title type="html">Input Validation</title><link href="https://naem-j.github.io/portfolio/input-validation" rel="alternate" type="text/html" title="Input Validation" /><published>2018-04-27T00:00:00-07:00</published><updated>2018-04-27T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/input-validation</id><content type="html" xml:base="https://naem-j.github.io/portfolio/input-validation">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;The following excerpts are examples of custom input validation I applied to a Microsoft Word checklist. The checklist corresponds to a test procedure independently developed by a technical service engineer. The engineer also makes the checklist and requests automated input validation for a digital copy to be provided to internal field service engineers.&lt;/p&gt;
 
@@ -248,11 +248,11 @@
 
 &lt;h2 id=&quot;samples&quot;&gt;Samples&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/form_01.png&quot; alt=&quot;Blank Form&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/form_01.png&quot; alt=&quot;Blank Form&quot; /&gt;
 &lt;em&gt;Product Information Required First&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/form_02.png&quot; alt=&quot;Required Fields Conditional to Prior Selections&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/form_02.png&quot; alt=&quot;Required Fields Conditional to Prior Selections&quot; /&gt;
 &lt;em&gt;Required Fields Depend on System Information and Service Type&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/form_03.png&quot; alt=&quot;Numerical Limits Defined and Notes on Required Actions&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;images/form_03.png&quot; alt=&quot;Numerical Limits Defined and Notes on Required Actions&quot; /&gt;
 &lt;em&gt;Numerical Limits Defined and Notes Regarding Required Action Appear in Real Time&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="pdf" /><category term="form" /><category term="input" /><category term="validation" /><category term="quality" /><category term="javascript" /><summary type="html">Summary</summary></entry></feed>

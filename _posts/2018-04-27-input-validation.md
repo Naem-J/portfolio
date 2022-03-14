@@ -28,11 +28,11 @@ Microsoft Word
 
 ## Samples
 
-![Blank Form](/images/form_01.png)
+![Blank Form](images/form_01.png)
 *Product Information Required First*
 
-![Required Fields Conditional to Prior Selections](/images/form_02.png)
+![Required Fields Conditional to Prior Selections](images/form_02.png)
 *Required Fields Depend on System Information and Service Type*
 
-![Numerical Limits Defined and Notes on Required Actions](/images/form_03.png)
+![Numerical Limits Defined and Notes on Required Actions](images/form_03.png)
 *Numerical Limits Defined and Notes Regarding Required Action Appear in Real Time*
