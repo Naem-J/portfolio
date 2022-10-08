@@ -6,11 +6,17 @@ tags: [
 ]
 ---
 
+![Preparation Checklist](images/prep_checklist.png)
+*Preparation Checklist for Authors to Complete before Peer Review*
+
+![Review Checklist](images/review_checklist.png)
+*Review Checklist for Reviewers to Complete during Peer Review*
+
 ## Summary
 
-The following excerpts are examples of two checklists I made to improve the internal review cycle lead time. They worked in conjunction with each other as well as the department style guide. These two checklists were identified as a gap in mistake proofing our development and review process during a Lean Six Sigma Green Belt project I planned and implemented. Prior to the implementation of these checklists and style guide, review cycles were repeated many times due to disagreements between writers on non-standardized topics or disagreements on the responsibilities of the author and reviewer.
+These excerpts are examples of two checklists I made to improve the internal review cycle lead time. They worked in conjunction with each other as well as the department style guide. These two checklists were identified as a gap in mistake proofing our development and review process during a Lean Six Sigma Green Belt project I planned and implemented. Prior to the implementation of these checklists and style guide, review cycles were repeated many times due to disagreements between writers on non-standardized topics or disagreements on the responsibilities of the author and reviewer.
 
-The checklists are an internal documents, so the full versions are not available publicly. However, the excerpts demonstrate the connection between style guide topics and expectations between author and reviewer responsibilities.
+The checklists are an internal documents, so the full versions are not available publicly.
 
 ## Responsibilities
 
@@ -25,11 +31,3 @@ My responsibilities included creating two checklists: one for the author to ensu
 ## Tools
 
 Microsoft Word
-
-## Samples
-
-![Preparation Checklist](images/prep_checklist.png)
-*Preparation Checklist for Authors to Complete before Peer Review*
-
-![Review Checklist](images/review_checklist.png)
-*Review Checklist for Reviewers to Complete during Peer Review*

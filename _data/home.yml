@@ -19,32 +19,32 @@ project_entries:
 
   - title: User Guide
     url: web-user-guide
-    desc: Detailed product documentation
+    desc: Instructions or directions for use
     highlight: Web
 
   - title: Help File
     url: help-file
-    desc: Detailed software documentation
+    desc: Embedded software documentation
 
   - title: Setup Guide
     url: setup-guide
-    desc: Brief setup and installation documentation
+    desc: Printed setup and installation guide
 
-  - title: Installation Guide
+  - title: Installation Card
     url: installation-guide
-    desc: Brief hardware installation documentation
+    desc: Brief hardware installation card
 
   - title: Specifications
     url: specs
-    desc: Product and performance information
+    desc: Product and performance specifications sheet
 
   - title: Style Guide
     url: style-guide
     desc: Writing conventions and visual aid guidelines
 
-  - title: Prep and Review Checklists
+  - title: Checklists
     url: checklists
-    desc: Checklists for quality control
+    desc: Prep and review checklists for quality control
 
   - title: Illustrations
     url: illustrations
@@ -56,15 +56,15 @@ project_entries:
 
   - title: URS
     url: urs
-    desc: Internal requirements for developers
+    desc: User requirements for creating product features
 
   - title: Test Protocol
     url: test-protocol
-    desc: Internal procedures for product testing
+    desc: Internal procedures for testing products
 
   - title: Input Validation
     url: input-validation
-    desc: Client-side custom input validation for PDF forms
+    desc: Client-side input validation for PDF forms
 
   - title: SOP
     url: sop
@@ -72,7 +72,7 @@ project_entries:
 
   - title: Script
     url: script
-    desc: Video script for internal customers
+    desc: Video script for training
 
 footer_entries:
 

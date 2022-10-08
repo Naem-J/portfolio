@@ -6,7 +6,7 @@ tags: [
 ]
 ---
 
-The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (Creo View). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.
+The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (CreoView). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.
 
 ![Exploded View Diagram](images/camera_installation.svg)
 *Exploded View Diagram*

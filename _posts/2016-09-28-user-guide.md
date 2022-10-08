@@ -6,14 +6,19 @@ tags: [
 ]
 ---
 
+[User Guide Sample](images/68-2290-01_G.pdf)
+
 ## Summary
 
-The following document is an example of a user guide I authored from product development to release. It is provided online (PDF) for free but has since been updated on the website. The project was to provide detailed information about a series of audio and video scalers. It was only provided on the company website.
+This document is an example of a user guide or manual I authored from development to release. It is intended to be used in conjunction with a printed setup guide where a user may reference this user guide for more use and operation information.
 
+It is provided online (PDF) only, but it has since been updated. This sample is from the last version I worked on the project.
 
 ## Responsibilities
 
 My responsibilities were to collaborate with Product Development engineers and technical illustrators to generate text and visual aids for a technical US audience. I wrote the text and organized the topics. I also designed the visuals before requesting them from the illustrators. However, the styles and layout were designed by the department supervisor.
+
+The document was reviewed informally by product application engineers and other technical writers before being updated to the website through the company CMS. Approvals went through a SharePoint workflow.
 
 ## Target Audience
 
@@ -22,10 +27,8 @@ My responsibilities were to collaborate with Product Development engineers and t
 
 ## Tools
 
+* Adobe Acrobat Pro
 * Adobe InDesign
 * Adobe Photoshop
 * Adobe Illustrator
-
-## Sample
-
-[User Guide Sample](images/68-2290-01_G.pdf)
+* Microsoft SharePoint

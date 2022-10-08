@@ -6,15 +6,16 @@ tags: [
 ]
 ---
 
+![Service Label Sample](images/label_workspace.png)
+*XML data set of localized content that matches Illustrator variables*
+
 ## Summary
 
-The following screenshot shows the Adobe Illustrator source file I created to batch output labels with localized text. The labels were placed on medical devices to remind owners to contact them for preventive maintenance or battery replacements. Overall, there were over 100 labels that needed to be created and released simultaneously. The labels are not available to general consumers, so the screenshot only demonstrates the use of variables and a data set to automate the building of over 100 labels at a time.
+This screenshot shows the Adobe Illustrator template I created for a label that adheres to the outside of hardware (product-independent). The template imported an XML file of translated and localized text for over 100 countries. Each country label needed to be released simultaneously in a component CMS.
 
 ## Responsibilities
 
-My responsibilities were to design the labels based on requirements from global affiliates, create templates, and generate release copies of all localized labels for the product lifecycle management system.
-
-To expedite the process, I created an XML file to store localized information and aligned tags with variables in Illustrator. Then, I made an Illustrator action to batch output all labels automatically.
+My responsibilities were to design the label to be small to fit on our smallest devices and batteries while making them large enough to write on. I also built the template in Adobe Illustrator to import the XML file, change the text for each country, and batch output separate labels for each country.
 
 Translations and localization were done by global affiliates. Printed material and vendor choices were made by technical services engineer.
 
@@ -27,8 +28,3 @@ Translations and localization were done by global affiliates. Printed material a
 
 * Adobe Illustrator
 * Adobe Dreamweaver
-
-## Sample
-
-![Service Label Sample](images/label_workspace.png)
-*XML data set of localized content that matches Illustrator variables*
