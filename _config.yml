@@ -3,7 +3,7 @@ author: Jeff Naemura
 url: "https://naem-j.github.io" # root address of the site
 baseurl: "/portfolio"
 description: > # description of the site (multiple lines allowed)
-  Welcome to my technical writing portfolio. The samples on this site represent different types of documents I've created for employers. However, full versions of samples are limited to documents made public by the company. Othewise, samples only include excerpts, redacted content, or are not available at all.
+  Welcome to my technical writing portfolio. The samples on this site represent different types of documents I've created over 10 years of working experience. However, full versions are limited to documents made public by the owners. All others are either excerpts or not available at all (for example, user requirement specifications, test protocols, style guides, SOPs, forms, or video scripts).
 
 permalink: /:slug
 

@@ -12,67 +12,50 @@ navbar_entries:
     url: https://github.com/Naem-J
 
 project_entries:
-  - title: User Guide
+  - title: User Manual
     url: user-guide
-    desc: Detailed product documentation
-    highlight: Printed
+    desc: Printed product use procedures
+    highlight: How-To
 
-  - title: User Guide
+  - title: User Manual
     url: web-user-guide
-    desc: Instructions or directions for use
-    highlight: Web
+    desc: Web-based product user procedures
+    highlight: How-To
 
   - title: Help File
     url: help-file
-    desc: Embedded software documentation
+    desc: Embedded HTML files for software help
+    highlight: How-To
 
   - title: Setup Guide
     url: setup-guide
-    desc: Printed setup and installation guide
+    desc: Installation procedures for HW product
+    highlight: How-To
 
-  - title: Installation Card
-    url: installation-guide
-    desc: Brief hardware installation card
+  - title: KB Page
+    url: knowledge-base
+    desc: Educational example procedure for internal use
+    highlight: Tutorial
+
+  - title: Ops Theory
+    url: theory-of-ops
+    desc: Detailed description of product components
+    highlight: Explanation
+
+  - title: FAQ
+    url: faq
+    desc: Frequently requested networking details
+    highlight: Reference
 
   - title: Specifications
     url: specs
     desc: Product and performance specifications sheet
+    highlight: Reference
 
-  - title: Style Guide
-    url: style-guide
-    desc: Writing conventions and visual aid guidelines
-
-  - title: Checklists
-    url: checklists
-    desc: Prep and review checklists for quality control
-
-  - title: Illustrations
-    url: illustrations
-    desc: Vector-based drawings and raster graphics
-
-  - title: Service Label
+  - title: Label
     url: service-label
-    desc: Localized adhesive stickers to write on
-
-  - title: URS
-    url: urs
-    desc: User requirements for creating product features
-
-  - title: Test Protocol
-    url: test-protocol
-    desc: Internal procedures for testing products
-
-  - title: Input Validation
-    url: input-validation
-    desc: Client-side input validation for PDF forms
-
-  - title: SOP
-    url: sop
-    desc: Internal standard operating procedure
-
-  - title: Script
-    url: script
-    desc: Video script for training
+    desc: Batch localized adhesive stickers
+    highlight: Reference
 
 footer_entries:
 
