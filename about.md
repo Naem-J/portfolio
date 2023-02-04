@@ -17,7 +17,7 @@ My style of technical writing involves being as direct and concise as possible f
 
 ## Docs-As-Code
 
-If there are opportunities to automate processes or reduce mistakes in the writing process, I am always interested. I see inherint value in the power of tracking changes between, say, Git commits or the ability to modularize content for content reuse or single-source-to-multiple-output automation.
+If there are opportunities to automate processes or reduce mistakes in the writing process, I am always interested. I see inherit value in the power of tracking changes between, say, Git commits or the ability to modularize content for content reuse or single-source-to-multiple-output automation.
 
 ## Flexibility
 
