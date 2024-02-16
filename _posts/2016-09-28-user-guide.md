@@ -10,25 +10,22 @@ tags: [
 
 ## Summary
 
-This document is an example of a user guide or manual I authored from development to release. It is intended to be used in conjunction with a printed setup guide where a user may reference this user guide for more use and operation information.
+This is an example of a user-focused document for an audio/video switcher and scaler. It was the company’s next generation solution that combined different electrical concepts and added several new technologies. It was provided online in PDF format and intended to be used in conjunction with a printed setup guide.
 
-It is provided online (PDF) only, but it has since been updated. This sample is from the last version I worked on the project.
+The target audience of this document were for external certified installers and operators (often administrative personnel). The installers were expected to be highly technical while the operators potentially not as technical.
 
 ## Responsibilities
 
-My responsibilities were to collaborate with Product Development engineers and technical illustrators to generate text and visual aids for a technical US audience. I wrote the text and organized the topics. I also designed the visuals before requesting them from the illustrators. However, the styles and layout were designed by the department supervisor.
+My responsibilities were to collaborate with Product Development engineers to design and create the document from concept to release and support subsequent firmware updates and additional models. After being assigned the project, I worked as the sole technical writer and the driver of the documentation effort.
 
-The document was reviewed informally by product application engineers and other technical writers before being updated to the website through the company CMS. Approvals went through a SharePoint workflow.
+I used company InDesign templates and styles to format the content (for example, color schemes, whitespace manipulation, use of hyperlinks in callouts). However, I wrote text was based on technical documents I received from engineers and regular discussions with the project team. Illustrations were created by a technical illustrator but I handled callouts and raster screenshots.
 
-## Target Audience
+The review process involved PDF shared reviews through SharePoint. After the review process, I was also responsible for releasing the document in the company CMS portal to be pushed to the company website.
 
-* Certified installers
-* Operators and administrators
-
-## Tools
+## Tools Used
 
 * Adobe Acrobat Pro
+* Adobe Illustrator
 * Adobe InDesign
 * Adobe Photoshop
-* Adobe Illustrator
 * Microsoft SharePoint

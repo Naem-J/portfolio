@@ -6,7 +6,12 @@ tags: [
 ]
 ---
 
-The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (CreoView). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.
+## Summary
+
+The following samples are vector-based illustrations that portray different kinds of information: for example, hardware interconnections or the flow of data.
+
+![Isometric Projection](images/device_iso.svg)
+*Isometric Projection*
 
 ![Exploded View Diagram](images/camera_installation.svg)
 *Exploded View Diagram*
@@ -14,5 +19,8 @@ The following samples are vector-based illustrations I created in Adobe Illustra
 ![Signal Flow](images/datafusion.svg)
 *Signal Flow*
 
-![Modified Screenshot](images/patient_page_header.png)
-*Screenshot with Data Changed to Generic Information*
+## Tools Used
+
+* Adobe Illustrator
+* CreoView
+* TechSmith Snagit
