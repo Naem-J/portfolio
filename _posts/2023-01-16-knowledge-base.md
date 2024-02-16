@@ -10,19 +10,15 @@ tags: [
 
 ## Summary
 
-This sample is from an internal knowledge base platform where I am a primary contributor. The space is used by the technical writing team to maintain processes and practices. In the sample, I provide instructions to use Git to clone a remote repository to a local destination. I used Confluence code macros and Snagit to create an animated .gif of the CLI commands.
+This is an example of an internal knowledge base article written for the technical writing team to clone a remote repository. In general, the knowledge base was only for the technical writing team to share knowledge on R&D projects, writing best practices, and procedures not defined in company SOPs.
+
+Most of the remote technical writing team did not have any experience with MadCap Flare or Git. However, the company was moving use both.
 
 ## Responsibilities
 
-My responsibilities included working with an SME to determine the most important questions to answer (consolidating where possible). I organized the questions which were reviewed by the SME.
+My responsibilities were to collaborate on the information architecture of entire knowledge base and populate most content. The article in the example used a combination of steps, code samples, and an animated gif demonstrating the steps.
 
-I was also responsible for the style and layout of the document. However, the color scheme was based on company brand guidelines.
-
-## Target Audience
-
-IT departments and personnel of medical practices, hospitals, or clinics
-
-## Tools
+## Tools Used
 
 * Atlassian Confluence
 * TechSmith Snagit

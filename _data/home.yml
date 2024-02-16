@@ -14,48 +14,57 @@ navbar_entries:
 project_entries:
   - title: User Manual
     url: user-guide
-    desc: Printed product use procedures
-    highlight: How-To
+    desc: Book for an audio-video switcher
+#    highlight: Printed
 
-  - title: User Manual
-    url: web-user-guide
-    desc: Web-based product user procedures
-    highlight: How-To
+  - title: IFU/DFU
+    url: ifu
+    desc: Book accompanying a medical device
+#    highlight: Printed
+
+#  - title: User Manual
+#    url: web-user-guide
+#    desc: Web-based product user procedures
+#    highlight: How-To
 
   - title: Help File
     url: help-file
-    desc: Embedded HTML files for software help
-    highlight: How-To
+    desc: HTML Help file for desktop software
+#    highlight: How-To
 
   - title: Setup Guide
     url: setup-guide
-    desc: Installation procedures for HW product
-    highlight: How-To
+    desc: Short book for hardware installation procedures
+#    highlight: Printed
 
-  - title: KB Page
+  - title: Wiki Article
     url: knowledge-base
-    desc: Educational example procedure for internal use
-    highlight: Tutorial
+    desc: Internal knowledge article
+#    highlight: Tutorial
 
-  - title: Ops Theory
-    url: theory-of-ops
-    desc: Detailed description of product components
-    highlight: Explanation
+#  - title: Ops Theory
+#    url: theory-of-ops
+#    desc: Detailed description of product components
+#    highlight: Explanation
 
   - title: FAQ
     url: faq
-    desc: Frequently requested networking details
-    highlight: Reference
+    desc: FAQ for networking details
+#    highlight: Reference
 
   - title: Specifications
     url: specs
     desc: Product and performance specifications sheet
-    highlight: Reference
+#    highlight: Reference
 
-  - title: Label
+  - title: Labels
     url: service-label
     desc: Batch localized adhesive stickers
-    highlight: Reference
+#    highlight: Reference
+
+  - title: Illustrations
+    url: illustrations
+    desc: Vector drawings and diagrams
 
 footer_entries:
 

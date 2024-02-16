@@ -1,44 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://naem-j.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://naem-j.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2024-02-15T12:24:08-08:00</updated><id>https://naem-j.github.io/portfolio/feed.xml</id><title type="html">Technical Writing Portfolio</title><subtitle>Welcome to my technical writing portfolio. The following selection of samples represent or demonstrate different types of documents, tools, and skills I&apos;ve used to communicate technical information. However, the samples are limited to publically available documents or redacted examples. To learn more about the context, process, and tools used to create each sample, select the appropriate card below.
-</subtitle><author><name>Jeff Naemura</name></author><entry><title type="html">Knowledge Base</title><link href="https://naem-j.github.io/portfolio/knowledge-base" rel="alternate" type="text/html" title="Knowledge Base" /><published>2023-01-16T00:00:00-08:00</published><updated>2023-01-16T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/knowledge-base</id><content type="html" xml:base="https://naem-j.github.io/portfolio/knowledge-base">&lt;p&gt;&lt;img src=&quot;images/confluence_sample.png&quot; alt=&quot;Knowledge Base Page Sample&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://naem-j.github.io/portfolio/feed.xml" rel="self" type="application/atom+xml" /><link href="https://naem-j.github.io/portfolio/" rel="alternate" type="text/html" /><updated>2024-02-15T21:14:13-08:00</updated><id>https://naem-j.github.io/portfolio/feed.xml</id><title type="html">Technical Writing Portfolio</title><subtitle>Welcome to my technical writing portfolio. The following selection of samples represent or demonstrate different types of documents, tools, and skills I&apos;ve used to communicate technical information. However, the samples are limited to publically available documents or redacted examples. To learn more about the context, process, and tools used to create each sample, select the appropriate card below.
+</subtitle><author><name>Jeff Naemura</name></author><entry><title type="html">IFU</title><link href="https://naem-j.github.io/portfolio/ifu" rel="alternate" type="text/html" title="IFU" /><published>2024-02-15T00:00:00-08:00</published><updated>2024-02-15T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/ifu</id><content type="html" xml:base="https://naem-j.github.io/portfolio/ifu">&lt;p&gt;&lt;a href=&quot;images/905-2040-002_E.pdf&quot;&gt;IFU Sample&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;This sample is from an internal knowledge base platform where I am a primary contributor. The space is used by the technical writing team to maintain processes and practices. In the sample, I provide instructions to use Git to clone a remote repository to a local destination. I used Confluence code macros and Snagit to create an animated .gif of the CLI commands.&lt;/p&gt;
+&lt;p&gt;This is an example of an IFU or DFU document (as defined by the FDA, EU, and IEC standards) for assisting ophthalmic surgical procedures. The company that was developing the device was bought by my employer and existing documentation needed to be drastically reworked and assimilated into our company standards. The document was printed in a 3-ring binder and supplied with the device.&lt;/p&gt;
+
+&lt;p&gt;The target audience for this document were external ophthalmic surgeons, their medical staff, and responsible organizations (for example, hospitals and their Facilities personnel or IT departments). These groups ranged from non-technical to technical.&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
-&lt;p&gt;My responsibilities included working with an SME to determine the most important questions to answer (consolidating where possible). I organized the questions which were reviewed by the SME.&lt;/p&gt;
+&lt;p&gt;My responsibilities were to collaborate with the remaining engineers, regulatory assurance personnel, and other SMEs from the original company to determine the scope and needed effort for the documentation project and then create and streamline content to meet Alcon and external regulatory standards (for example, FDA CFR, EU MDR, and IEC 60601-1 standards).&lt;/p&gt;
 
-&lt;p&gt;I was also responsible for the style and layout of the document. However, the color scheme was based on company brand guidelines.&lt;/p&gt;
+&lt;p&gt;I used InDesign to create a template based on guidelines discussed with the other members of the Alcon Technical Publications team and laid out content in that application. I was also responsible for all screenshots and illustrations.&lt;/p&gt;
 
-&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
+&lt;p&gt;I was the only technical writer on the project and drove the project from company assimilation to release. I also submitted documents into the company product lifecycle management tool and drove the review and approval cycle until full approval. After that, I also coordinated with the print vendor to deliver finished printed copies and verify the quality.&lt;/p&gt;
 
-&lt;p&gt;IT departments and personnel of medical practices, hospitals, or clinics&lt;/p&gt;
+&lt;h2 id=&quot;tools-used&quot;&gt;Tools Used&lt;/h2&gt;
 
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adobe Acrobat Pro&lt;/li&gt;
+  &lt;li&gt;Adobe Illustrator&lt;/li&gt;
+  &lt;li&gt;Adobe InDesign&lt;/li&gt;
+  &lt;li&gt;Adobe Photoshop&lt;/li&gt;
+  &lt;li&gt;PTC Windchill&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="IFU" /><category term="DFU" /><category term="instructions for use" /><category term="directions for use" /><summary type="html">IFU Sample</summary></entry><entry><title type="html">Knowledge Base</title><link href="https://naem-j.github.io/portfolio/knowledge-base" rel="alternate" type="text/html" title="Knowledge Base" /><published>2023-01-16T00:00:00-08:00</published><updated>2023-01-16T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/knowledge-base</id><content type="html" xml:base="https://naem-j.github.io/portfolio/knowledge-base">&lt;p&gt;&lt;img src=&quot;images/confluence_sample.png&quot; alt=&quot;Knowledge Base Page Sample&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;This is an example of an internal knowledge base article written for the technical writing team to clone a remote repository. In general, the knowledge base was only for the technical writing team to share knowledge on R&amp;amp;D projects, writing best practices, and procedures not defined in company SOPs.&lt;/p&gt;
+
+&lt;p&gt;Most of the remote technical writing team did not have any experience with MadCap Flare or Git. However, the company was moving use both.&lt;/p&gt;
+
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;My responsibilities were to collaborate on the information architecture of entire knowledge base and populate most content. The article in the example used a combination of steps, code samples, and an animated gif demonstrating the steps.&lt;/p&gt;
+
+&lt;h2 id=&quot;tools-used&quot;&gt;Tools Used&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Atlassian Confluence&lt;/li&gt;
   &lt;li&gt;TechSmith Snagit&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="knowledge base" /><category term="documentation" /><category term="confluence" /><category term="snagit" /><summary type="html"></summary></entry><entry><title type="html">FAQ</title><link href="https://naem-j.github.io/portfolio/faq" rel="alternate" type="text/html" title="FAQ" /><published>2022-12-30T00:00:00-08:00</published><updated>2022-12-30T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/faq</id><content type="html" xml:base="https://naem-j.github.io/portfolio/faq">&lt;p&gt;&lt;a href=&quot;images/networking_faq.pdf&quot;&gt;FAQ Sample&lt;/a&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="knowledge base" /><category term="documentation" /><category term="confluence" /><category term="snagit" /><summary type="html"></summary></entry><entry><title type="html">FAQ</title><link href="https://naem-j.github.io/portfolio/faq" rel="alternate" type="text/html" title="FAQ" /><published>2022-12-30T00:00:00-08:00</published><updated>2022-12-30T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/faq</id><content type="html" xml:base="https://naem-j.github.io/portfolio/faq">&lt;p&gt;&lt;a href=&quot;images/faq.pdf&quot;&gt;FAQ Sample&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;This FAQ answers many common questions the company receives when working with a new client with HIPAA and cybersecurity concerns. Questionnaires are often sent to the company by prospective clients which are the inspiration for most of the questions. The questions are organized by the cybersecurity CIA triad concept.&lt;/p&gt;
+&lt;p&gt;This is an example of an FAQ that details network requirements and security features of medical devices that can be set up to share data over the customer network. The format answers specific questions that are often asked in questionnaire form by prospective customers.&lt;/p&gt;
 
-&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
+&lt;p&gt;The target audience is customer IT departments and field service engineers. These groups are highly technical.&lt;/p&gt;
 
-&lt;p&gt;My responsibilities included working with an SME to determine the most important questions to answer (consolidating where possible). I organized the questions which were reviewed by the SME.&lt;/p&gt;
+&lt;h2 id=&quot;tools-used&quot;&gt;Tools Used&lt;/h2&gt;
 
-&lt;p&gt;I was also responsible for the style and layout of the document. However, the color scheme was based on company brand guidelines.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adobe Illustrator&lt;/li&gt;
+  &lt;li&gt;Microsoft Word&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="faq" /><category term="frequently asked questions" /><category term="answers" /><category term="documentation" /><category term="microsoft" /><category term="word" /><summary type="html">FAQ Sample</summary></entry><entry><title type="html">Illustrations</title><link href="https://naem-j.github.io/portfolio/illustrations" rel="alternate" type="text/html" title="Illustrations" /><published>2022-03-12T00:00:00-08:00</published><updated>2022-03-12T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/illustrations</id><content type="html" xml:base="https://naem-j.github.io/portfolio/illustrations">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
-&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
+&lt;p&gt;The following samples are vector-based illustrations that portray different kinds of information: for example, hardware interconnections or the flow of data.&lt;/p&gt;
 
-&lt;p&gt;IT departments and personnel of medical practices, hospitals, or clinics&lt;/p&gt;
-
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
-
-&lt;p&gt;Microsoft Word&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="faq" /><category term="frequently asked questions" /><category term="answers" /><category term="documentation" /><category term="microsoft" /><category term="word" /><summary type="html">FAQ Sample</summary></entry><entry><title type="html">Illustrations</title><link href="https://naem-j.github.io/portfolio/illustrations" rel="alternate" type="text/html" title="Illustrations" /><published>2022-03-12T00:00:00-08:00</published><updated>2022-03-12T00:00:00-08:00</updated><id>https://naem-j.github.io/portfolio/illustrations</id><content type="html" xml:base="https://naem-j.github.io/portfolio/illustrations">&lt;p&gt;The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (CreoView). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/device_iso.svg&quot; alt=&quot;Isometric Projection&quot; /&gt;
+&lt;em&gt;Isometric Projection&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/camera_installation.svg&quot; alt=&quot;Exploded View Diagram&quot; /&gt;
 &lt;em&gt;Exploded View Diagram&lt;/em&gt;&lt;/p&gt;
@@ -46,8 +66,13 @@
 &lt;p&gt;&lt;img src=&quot;images/datafusion.svg&quot; alt=&quot;Signal Flow&quot; /&gt;
 &lt;em&gt;Signal Flow&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;images/patient_page_header.png&quot; alt=&quot;Modified Screenshot&quot; /&gt;
-&lt;em&gt;Screenshot with Data Changed to Generic Information&lt;/em&gt;&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="illustrations" /><category term="drawings" /><category term="vector" /><category term="adobe" /><category term="illustrator" /><summary type="html">The following samples are vector-based illustrations I created in Adobe Illustrator. I based them off CAD drawing references I positioned in CAD visualization software (CreoView). For maintenance purposes, I predominately use isometric (30 degrees) and orthographic projections.</summary></entry><entry><title type="html">Style Guide</title><link href="https://naem-j.github.io/portfolio/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2021-07-10T00:00:00-07:00</published><updated>2021-07-10T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/style-guide</id><content type="html" xml:base="https://naem-j.github.io/portfolio/style-guide">&lt;p&gt;&lt;a href=&quot;images/style_guide_redacted.pdf&quot;&gt;Style Guide Sample&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;tools-used&quot;&gt;Tools Used&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adobe Illustrator&lt;/li&gt;
+  &lt;li&gt;CreoView&lt;/li&gt;
+  &lt;li&gt;TechSmith Snagit&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="illustrations" /><category term="drawings" /><category term="vector" /><category term="adobe" /><category term="illustrator" /><summary type="html">Summary</summary></entry><entry><title type="html">Style Guide</title><link href="https://naem-j.github.io/portfolio/style-guide" rel="alternate" type="text/html" title="Style Guide" /><published>2021-07-10T00:00:00-07:00</published><updated>2021-07-10T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/style-guide</id><content type="html" xml:base="https://naem-j.github.io/portfolio/style-guide">&lt;p&gt;&lt;a href=&quot;images/style_guide_redacted.pdf&quot;&gt;Style Guide Sample&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
@@ -168,26 +193,27 @@
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;This screenshot shows the Adobe Illustrator template I created for a label that adheres to the outside of hardware (product-independent). The template imported an XML file of translated and localized text for over 100 countries. Each country label needed to be released simultaneously in a component CMS.&lt;/p&gt;
+&lt;p&gt;This is a screenshot of the workspace in Adobe Illustrator I used to generate a service label that needed to be translated and localized in more than 60 regions around the world. With the help of feedback from the Global Technical Services department and global affiliates, I designed the label to display contact information and the next service date for the equipment. Another engineer determined the print vendor, materials, and location for the labels.
+These labels encouraged global customers to contact the company to schedule preventive maintenance. However, global field service engineers needed to order them and fill in appropriate dates.&lt;/p&gt;
+
+&lt;p&gt;To support so many regions and languages, I created variables to display different parts of the label in a specific language and with the appropriate contact information. The Data Set drop-down menu in the previous example shows a selection of different regions, each with a unique identification number, to choose from. The actual text or numbers to display in the variables were managed in a separate XML file I created and associated with the variables shown in the previous example.&lt;/p&gt;
+
+&lt;p&gt;To generate the labels, I created an Illustrator action to batch output each localized label in the data set in .pdf and .ai format. This process helped improve the time to generate the labels, ensure accuracy, and update parts of them (if necessary).&lt;/p&gt;
 
 &lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
 
-&lt;p&gt;My responsibilities were to design the label to be small to fit on our smallest devices and batteries while making them large enough to write on. I also built the template in Adobe Illustrator to import the XML file, change the text for each country, and batch output separate labels for each country.&lt;/p&gt;
+&lt;p&gt;My responsibilities were to design the label from a layout standpoint. I recommended creating a template to batch output the labels using XML to manage the actual content. However, to do this I had to ensure the design would fit text in other languages that could be significantly longer than others. I was also responsible for generating the version-controlled artwork file (shown in the previous example).&lt;/p&gt;
 
-&lt;p&gt;Translations and localization were done by global affiliates. Printed material and vendor choices were made by technical services engineer.&lt;/p&gt;
+&lt;p&gt;The actual translations and localization of text and contact information was done by global affiliates via email. After they were provided, I added them to the XML file under a new record with a provided ID number.
+The Technical Service and Alcon logos were created by another team and not subject to localization. Likewise, the color scheme followed Alcon branding guidelines.&lt;/p&gt;
 
-&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
+&lt;p&gt;The size of the label were also determined in conjunction with me, the print vendor, and the engineer responsible for choosing the vendor and materials. Ultimately, the size was picked as a minimal size needed to support the longest text requirements and that provided the most cost savings.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Field service engineers&lt;/li&gt;
-  &lt;li&gt;Equipment owners&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+&lt;h2 id=&quot;tools-used&quot;&gt;Tools Used&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Adobe Illustrator&lt;/li&gt;
-  &lt;li&gt;Adobe Dreamweaver&lt;/li&gt;
+  &lt;li&gt;Adobe Dreamweaver and Notepad++&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="label" /><category term="sticker" /><category term="service" /><category term="adobe" /><category term="illustrator" /><category term="xml" /><summary type="html">XML data set of localized content that matches Illustrator variables</summary></entry><entry><title type="html">Script</title><link href="https://naem-j.github.io/portfolio/script" rel="alternate" type="text/html" title="Script" /><published>2019-09-25T00:00:00-07:00</published><updated>2019-09-25T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/script</id><content type="html" xml:base="https://naem-j.github.io/portfolio/script">&lt;p&gt;&lt;a href=&quot;images/video_script.pdf&quot;&gt;Video Script Sample&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
@@ -208,28 +234,4 @@
 
 &lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
 
-&lt;p&gt;Microsoft Word&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="script" /><category term="video" /><category term="microsoft" /><category term="word" /><summary type="html">Video Script Sample</summary></entry><entry><title type="html">Standard Operating Procedure</title><link href="https://naem-j.github.io/portfolio/sop" rel="alternate" type="text/html" title="Standard Operating Procedure" /><published>2019-08-31T00:00:00-07:00</published><updated>2019-08-31T00:00:00-07:00</updated><id>https://naem-j.github.io/portfolio/sop</id><content type="html" xml:base="https://naem-j.github.io/portfolio/sop">&lt;p&gt;&lt;a href=&quot;images/om_creation_process_redacted.pdf&quot;&gt;SOP for Creating User-Facing Documents&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;This excerpt is an example of a standard operating procedure (SOP) I authored as part of a Lean Six Sigma Green Belt project. It was identified as a gap in the Technical Publications department and helped mitigate errors in the development and review cycles when creating user documentation.&lt;/p&gt;
-
-&lt;p&gt;The SOP is an internal document, so the full version is not available. However, the excerpt demonstrates a process flow chart and some basic administrative elements required to release the SOP in the company Quality Control system.&lt;/p&gt;
-
-&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;/h2&gt;
-
-&lt;p&gt;My responsibilities were to record the workflow and decision making process of technical writers creating customer-facing documentation. In conjunction with this SOP, I also created preparation and review checklists as controlled documents. However, the release process SOPs already existed at the time.&lt;/p&gt;
-
-&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quality control personnel&lt;/li&gt;
-  &lt;li&gt;Technical writers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Microsoft Word&lt;/li&gt;
-  &lt;li&gt;Microsoft Visio&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Jeff Naemura</name></author><category term="sop" /><category term="standard operating procedure" /><category term="pdf" /><category term="adobe" /><category term="indesign" /><category term="microsoft" /><category term="visio" /><category term="word" /><summary type="html">SOP for Creating User-Facing Documents</summary></entry></feed>
+&lt;p&gt;Microsoft Word&lt;/p&gt;</content><author><name>Jeff Naemura</name></author><category term="script" /><category term="video" /><category term="microsoft" /><category term="word" /><summary type="html">Video Script Sample</summary></entry></feed>
